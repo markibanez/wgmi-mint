@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "erc721-snapshot": "^1.0.4"
+  }
+}
